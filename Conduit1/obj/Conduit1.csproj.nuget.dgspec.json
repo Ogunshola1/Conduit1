@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\folak\\source\\repos\\Conduit1\\Conduit1\\Conduit1.csproj": {}
+    "C:\\Users\\folak\\source\\repos\\Work\\Conduit1\\Conduit1\\Conduit1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\folak\\source\\repos\\Conduit1\\Conduit1\\Conduit1.csproj": {
+    "C:\\Users\\folak\\source\\repos\\Work\\Conduit1\\Conduit1\\Conduit1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\folak\\source\\repos\\Conduit1\\Conduit1\\Conduit1.csproj",
+        "projectUniqueName": "C:\\Users\\folak\\source\\repos\\Work\\Conduit1\\Conduit1\\Conduit1.csproj",
         "projectName": "Conduit1",
-        "projectPath": "C:\\Users\\folak\\source\\repos\\Conduit1\\Conduit1\\Conduit1.csproj",
+        "projectPath": "C:\\Users\\folak\\source\\repos\\Work\\Conduit1\\Conduit1\\Conduit1.csproj",
         "packagesPath": "C:\\Users\\folak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\folak\\source\\repos\\Conduit1\\Conduit1\\obj\\",
+        "outputPath": "C:\\Users\\folak\\source\\repos\\Work\\Conduit1\\Conduit1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\folak\\AppData\\Roaming\\NuGet\\NuGet.Config",
