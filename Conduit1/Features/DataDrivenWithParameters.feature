@@ -7,7 +7,7 @@
 Scenario: Data Driven With Parameters
 	Given I navigate to "https://angularjs.realworld.io/#/register"
 	When I enter username text "Oyindamola"
-	And I enter email text "folake.@talktalk.net"
+	And I enter email text "folake.richardson@talktalk.net"
 	And I enter password text "PasswordSecured"
 	And I click on sign up button
 	#Then I am logged in with my username displayed
